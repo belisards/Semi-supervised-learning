@@ -232,7 +232,7 @@ python eval.py --dataset cifar100 --num_classes 100 --load_path /PATH/TO/CHECKPO
 
 Check the developing documentation for creating your own SSL algorithm!
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://usb.readthedocs.io/en/main/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
